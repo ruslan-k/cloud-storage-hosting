@@ -1,0 +1,10 @@
+# Local Terraform directories
+.terraform/
+
+# Sensitive files
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Ignore IDE files
+.vscode/
